@@ -1,0 +1,6 @@
+OAI-PMH.private/
+__pycache__/
+venv*
+
+# generated directories
+max/
